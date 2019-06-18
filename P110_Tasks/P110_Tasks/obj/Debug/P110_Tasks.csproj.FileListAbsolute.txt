@@ -1,0 +1,10 @@
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\bin\Debug\P110_Tasks.exe.config
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\bin\Debug\P110_Tasks.exe
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\bin\Debug\P110_Tasks.pdb
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.csprojAssemblyReference.cache
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.Form1.resources
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.Properties.Resources.resources
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.csproj.GenerateResource.cache
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.exe
+C:\Users\samird\source\repos\P110_Tasks\P110_Tasks\obj\Debug\P110_Tasks.pdb
